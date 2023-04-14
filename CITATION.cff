@@ -9,7 +9,7 @@ authors:
 - {family-names: Isbrandt, given-names: Dirk}
 - {family-names: Roeper, given-names: Jochen}
 - {family-names: Engeland, given-names: Birgit}
-- {family-names: MArguet, given-names: Stephan}
+- {family-names: Marguet, given-names: Stephan}
 - {family-names: Merseburg, given-names: Andrea}
 - {family-names: Stockebrand, given-names: Malte}
 - {family-names: Vogel, given-names: Pascal}
@@ -19,4 +19,4 @@ authors:
 - {family-names: Schenkel, given-names: Daniela}
 cff-version: 1.2.0
 message: Generated with data scraped from crc1451.uni-koeln.de
-title: Developmental mechanisms affecting motor skills and motor control
+title: 'B01: Developmental mechanisms affecting motor skills and motor control'
